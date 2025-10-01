@@ -105,4 +105,6 @@ Accessing **Abacus Market** securely starts with the correct **Abacus Market lin
 
 
 
-Update:  18 September
+
+
+Update:  01 October 2025 url is now functioning and live
